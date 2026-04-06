@@ -1,2 +1,3 @@
 this is config file
 db config added
+kafka setup added
